@@ -1,0 +1,397 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "routes_user",
+        "description": "routes_user",
+        "isExtraImport": true,
+        "detail": "routes_user",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy.sql",
+        "description": "sqlalchemy.sql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql",
+        "documentation": {}
+    },
+    {
+        "label": "UserSchema",
+        "importPath": "schema",
+        "description": "schema",
+        "isExtraImport": true,
+        "detail": "schema",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "backend.config",
+        "description": "backend.config",
+        "peekOfCode": "class Settings:\n    PROJECT_NAME:str = \"Priscila Mendes\"\n    PROJECT_VERSION: str = \"1.0.0\"\n    POSTGRES_USER : str = os.getenv(\"POSTGRES_USER\")\n    POSTGRES_PASSWORD = os.getenv(\"POSTGRES_PASSWORD\")\n    POSTGRES_SERVER : str = os.getenv(\"POSTGRES_SERVER\")\n    POSTGRES_PORT : str = os.getenv(\"POSTGRES_PORT\") # default postgres port is 5432\n    POSTGRES_DB : str = os.getenv(\"POSTGRES_DB\")\n    DATABASE_URL = f\"postgresql://{POSTGRES_USER}:{POSTGRES_PASSWORD}@{POSTGRES_SERVER}:{POSTGRES_PORT}/{POSTGRES_DB}\"\nsettings = Settings()",
+        "detail": "backend.config",
+        "documentation": {}
+    },
+    {
+        "label": "env_path",
+        "kind": 5,
+        "importPath": "backend.config",
+        "description": "backend.config",
+        "peekOfCode": "env_path = Path('.') / '.env'\nload_dotenv(dotenv_path=env_path)\nclass Settings:\n    PROJECT_NAME:str = \"Priscila Mendes\"\n    PROJECT_VERSION: str = \"1.0.0\"\n    POSTGRES_USER : str = os.getenv(\"POSTGRES_USER\")\n    POSTGRES_PASSWORD = os.getenv(\"POSTGRES_PASSWORD\")\n    POSTGRES_SERVER : str = os.getenv(\"POSTGRES_SERVER\")\n    POSTGRES_PORT : str = os.getenv(\"POSTGRES_PORT\") # default postgres port is 5432\n    POSTGRES_DB : str = os.getenv(\"POSTGRES_DB\")",
+        "detail": "backend.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "backend.config",
+        "description": "backend.config",
+        "peekOfCode": "settings = Settings()",
+        "detail": "backend.config",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "backend.database",
+        "description": "backend.database",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URL = settings.DATABASE_URL\nprint(\"Database URL is \",SQLALCHEMY_DATABASE_URL)\nengine = create_engine(SQLALCHEMY_DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False,autoflush=False,bind=engine)\nBase = declarative_base()",
+        "detail": "backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "backend.database",
+        "description": "backend.database",
+        "peekOfCode": "engine = create_engine(SQLALCHEMY_DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False,autoflush=False,bind=engine)\nBase = declarative_base()",
+        "detail": "backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "backend.database",
+        "description": "backend.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False,autoflush=False,bind=engine)\nBase = declarative_base()",
+        "detail": "backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "backend.database",
+        "description": "backend.database",
+        "peekOfCode": "Base = declarative_base()",
+        "detail": "backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "link",
+        "kind": 2,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "def link():\n    return (\"vá para localhost:8003/docs\")\n@app.get('/health-check')\ndef health_check():\n    return True\napp.include_router(user_router)\nif __name__ == \"__main__\":\n    import uvicorn\n    uvicorn.run(\"main:app\", host=\"127.0.0.1\", port=8003, reload=True)",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "health_check",
+        "kind": 2,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "def health_check():\n    return True\napp.include_router(user_router)\nif __name__ == \"__main__\":\n    import uvicorn\n    uvicorn.run(\"main:app\", host=\"127.0.0.1\", port=8003, reload=True)",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "app = FastAPI()\n@app.get('/')\ndef link():\n    return (\"vá para localhost:8003/docs\")\n@app.get('/health-check')\ndef health_check():\n    return True\napp.include_router(user_router)\nif __name__ == \"__main__\":\n    import uvicorn",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "backend.models",
+        "description": "backend.models",
+        "peekOfCode": "class User(Base):\n      __tablename__ = 'users'\n      id = Column('id', Integer, primary_key=True, autoincrement=True)\n      username = Column('username', String, nullable=False, unique=True)\n      password = Column('password', String, nullable=False)\n      created_at = Column('created_at', DateTime, server_default=func.now())\n      updated_at = Column('updated_at', DateTime, onupdate=func.now())",
+        "detail": "backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "backend.routes_user",
+        "description": "backend.routes_user",
+        "peekOfCode": "def get_db():\n    try:\n        db = SessionLocal()\n        #TODO \n        yield db\n    finally:\n        db.close()\n@router.post(\"/add\")\nasync def add_usuario(request:UserSchema, db: Session = Depends(get_db)):\n    usuario_on_db = User(id=request.id, username=request.username, password=request.password)",
+        "detail": "backend.routes_user",
+        "documentation": {}
+    },
+    {
+        "label": "get_usuario",
+        "kind": 2,
+        "importPath": "backend.routes_user",
+        "description": "backend.routes_user",
+        "peekOfCode": "def get_usuario(user_name,db: Session = Depends(get_db)):\n    usuario_on_db = db.query(User).filter(User.item == user_name).first()\n    return usuario_on_db\n@router.get(\"/listar\", description=\"Listar todos os usuarios\")\ndef get_usuario_all(db: Session = Depends(get_db)):\n    usuario = db.query(User).a\n    return usuario\n@router.delete(\"/{id}\", description=\"Deletar o usuario pelo id\")\ndef delete_usuario(id: int, db: Session = Depends(get_db)):\n    usuario_on_db = db.query(User).filter(User.id == id).first()",
+        "detail": "backend.routes_user",
+        "documentation": {}
+    },
+    {
+        "label": "get_usuario_all",
+        "kind": 2,
+        "importPath": "backend.routes_user",
+        "description": "backend.routes_user",
+        "peekOfCode": "def get_usuario_all(db: Session = Depends(get_db)):\n    usuario = db.query(User).a\n    return usuario\n@router.delete(\"/{id}\", description=\"Deletar o usuario pelo id\")\ndef delete_usuario(id: int, db: Session = Depends(get_db)):\n    usuario_on_db = db.query(User).filter(User.id == id).first()\n    if usuario_on_db is None:\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail='Nao existe usuario com esse id')\n    db.delete(usuario_on_db)\n    db.commit()",
+        "detail": "backend.routes_user",
+        "documentation": {}
+    },
+    {
+        "label": "delete_usuario",
+        "kind": 2,
+        "importPath": "backend.routes_user",
+        "description": "backend.routes_user",
+        "peekOfCode": "def delete_usuario(id: int, db: Session = Depends(get_db)):\n    usuario_on_db = db.query(User).filter(User.id == id).first()\n    if usuario_on_db is None:\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail='Nao existe usuario com esse id')\n    db.delete(usuario_on_db)\n    db.commit()\n    return f\"Banco with id {id} deletado.\", Response(status_code=status.HTTP_200_OK)\n# @app.put(\"/produto/{id}\",response_model=Produtos)\n# async def update_produto(request:ProdutosSchema, id: int, db: Session = Depends(get_db)):\n#     produto_on_db = db.query(Produtos).filter(Produtos.id == id).first()",
+        "detail": "backend.routes_user",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.routes_user",
+        "description": "backend.routes_user",
+        "peekOfCode": "router = APIRouter(prefix=\"/users\")   \ndef get_db():\n    try:\n        db = SessionLocal()\n        #TODO \n        yield db\n    finally:\n        db.close()\n@router.post(\"/add\")\nasync def add_usuario(request:UserSchema, db: Session = Depends(get_db)):",
+        "detail": "backend.routes_user",
+        "documentation": {}
+    },
+    {
+        "label": "UserSchema",
+        "kind": 6,
+        "importPath": "backend.schema",
+        "description": "backend.schema",
+        "peekOfCode": "class UserSchema(BaseModel):\n    id: int\n    username: str\n    password: str",
+        "detail": "backend.schema",
+        "documentation": {}
+    }
+]
